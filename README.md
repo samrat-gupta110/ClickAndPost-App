@@ -1,6 +1,7 @@
 # postvideos
 
-A new Flutter project.
+An App that will click a photo and display it and User able to access the videos or picture from the gallary also.It will ask for OTP authorization so your have to enter your Mobile number to access it.
+<strong> Made with Flutter, Dart, Firebase and Firestore </strong>
 
 ## Getting Started
 
